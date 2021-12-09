@@ -83,7 +83,7 @@ text-align: center;
     justify-content: space-between;  
 }
 .hero {
-    background-image: url(../_ImgCategoria/Biblioteca2.jpg);
+    background-image: url(../imgCategoria/Biblioteca2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
