@@ -123,7 +123,7 @@ gap: 2rem;
 /* BLOQUE NOSOTROS */
 .sobre-nosotros{
     background-image: linear-gradient( to right, transparent 50%, lightseagreen 50%, lightseagreen 100%),
-    url(../_ImgCategoria/nosotros.jpg);
+    url(../imgCategoria/nosotros.jpg);
     padding: 4rem 0 4rem 0 ;
     background-position: left center;
     background-repeat: no-repeat;
